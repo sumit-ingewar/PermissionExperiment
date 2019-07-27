@@ -36,7 +36,6 @@ dependencies {
 
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$couroutines"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$couroutines"
-
     implementation 'com.github.florent37:runtime-permission:1.1.0'
 
 
